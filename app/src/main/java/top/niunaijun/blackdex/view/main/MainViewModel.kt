@@ -1,10 +1,10 @@
-package top.niunaijun.blackdex.view.main
+package com.yinsheng.blackdex.view.main
 
 import androidx.lifecycle.MutableLiveData
-import top.niunaijun.blackdex.data.DexDumpRepository
-import top.niunaijun.blackdex.data.entity.AppInfo
-import top.niunaijun.blackdex.data.entity.DumpInfo
-import top.niunaijun.blackdex.view.base.BaseViewModel
+import com.yinsheng.blackdex.data.DexDumpRepository
+import com.yinsheng.blackdex.data.entity.AppInfo
+import com.yinsheng.blackdex.data.entity.DumpInfo
+import com.yinsheng.blackdex.view.base.BaseViewModel
 
 /**
  *

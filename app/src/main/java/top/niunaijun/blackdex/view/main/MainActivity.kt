@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.view.main
+package com.yinsheng.blackdex.view.main
 
 import android.content.Intent
 import android.net.Uri
@@ -17,16 +17,16 @@ import com.umeng.analytics.MobclickAgent
 import top.niunaijun.blackbox.BlackDexCore
 import top.niunaijun.blackbox.core.system.dump.IBDumpMonitor
 import top.niunaijun.blackbox.entity.dump.DumpResult
-import top.niunaijun.blackdex.R
-import top.niunaijun.blackdex.data.entity.AppInfo
-import top.niunaijun.blackdex.data.entity.DumpInfo
-import top.niunaijun.blackdex.databinding.ActivityMainBinding
-import top.niunaijun.blackdex.util.FileUtil
-import top.niunaijun.blackdex.util.InjectionUtil
-import top.niunaijun.blackdex.util.inflate
-import top.niunaijun.blackdex.view.base.PermissionActivity
-import top.niunaijun.blackdex.view.setting.SettingActivity
-import top.niunaijun.blackdex.view.widget.ProgressDialog
+import com.yinsheng.blackdex.R
+import com.yinsheng.blackdex.data.entity.AppInfo
+import com.yinsheng.blackdex.data.entity.DumpInfo
+import com.yinsheng.blackdex.databinding.ActivityMainBinding
+import com.yinsheng.blackdex.util.FileUtil
+import com.yinsheng.blackdex.util.InjectionUtil
+import com.yinsheng.blackdex.util.inflate
+import com.yinsheng.blackdex.view.base.PermissionActivity
+import com.yinsheng.blackdex.view.setting.SettingActivity
+import com.yinsheng.blackdex.view.widget.ProgressDialog
 import java.io.File
 
 

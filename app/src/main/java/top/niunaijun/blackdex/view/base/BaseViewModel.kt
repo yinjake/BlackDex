@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.view.base
+package com.yinsheng.blackdex.view.base
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope

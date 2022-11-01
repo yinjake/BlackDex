@@ -1,8 +1,8 @@
-package top.niunaijun.blackdex.view.base
+package com.yinsheng.blackdex.view.base
 
 import android.content.Intent
 import android.os.Bundle
-import top.niunaijun.blackdex.view.main.MainActivity
+import com.yinsheng.blackdex.view.main.MainActivity
 
 /**
  *

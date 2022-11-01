@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.view.base
+package com.yinsheng.blackdex.view.base
 
 import android.Manifest
 import android.content.Intent
@@ -11,7 +11,7 @@ import androidx.activity.result.contract.ActivityResultContracts
 import androidx.annotation.RequiresApi
 import com.afollestad.materialdialogs.MaterialDialog
 import top.niunaijun.blackbox.utils.compat.BuildCompat
-import top.niunaijun.blackdex.R
+import com.yinsheng.blackdex.R
 
 /**
  *

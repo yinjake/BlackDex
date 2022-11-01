@@ -1,4 +1,4 @@
-  package top.niunaijun.blackdex.view.base
+  package com.yinsheng.blackdex.view.base
 
 import android.view.LayoutInflater
 import android.view.ViewGroup

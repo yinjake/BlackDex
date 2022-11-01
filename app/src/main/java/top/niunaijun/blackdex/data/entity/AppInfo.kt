@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.data.entity
+package com.yinsheng.blackdex.data.entity
 
 import android.graphics.drawable.Drawable
 

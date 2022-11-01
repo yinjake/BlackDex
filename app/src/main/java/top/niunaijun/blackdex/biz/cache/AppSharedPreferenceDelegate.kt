@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.biz.cache
+package com.yinsheng.blackdex.biz.cache
 
 
 import android.content.Context

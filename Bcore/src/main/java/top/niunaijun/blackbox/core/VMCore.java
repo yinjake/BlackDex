@@ -53,6 +53,7 @@ public class VMCore {
     private static native void hookDumpDex(String dir);
 
     public static void cookieDumpDex(ClassLoader classLoader, String packageName) {
+        Log.e(TAG, "  BBBBB  ");
         List<Long> cookies = DexFileCompat.getCookies(classLoader);
         File file = new File(BlackBoxCore.get().getDexDumpDir(), packageName);
 

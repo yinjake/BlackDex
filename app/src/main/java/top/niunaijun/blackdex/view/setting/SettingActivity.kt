@@ -1,11 +1,11 @@
-package top.niunaijun.blackdex.view.setting
+package com.yinsheng.blackdex.view.setting
 
 import android.os.Bundle
-import top.niunaijun.blackdex.R
-import top.niunaijun.blackdex.databinding.ActivitySettingBinding
-import top.niunaijun.blackdex.util.inflate
-import top.niunaijun.blackdex.view.base.BaseActivity
-import top.niunaijun.blackdex.view.base.PermissionActivity
+import com.yinsheng.blackdex.R
+import com.yinsheng.blackdex.databinding.ActivitySettingBinding
+import com.yinsheng.blackdex.util.inflate
+import com.yinsheng.blackdex.view.base.BaseActivity
+import com.yinsheng.blackdex.view.base.PermissionActivity
 
 class SettingActivity : PermissionActivity() {
 

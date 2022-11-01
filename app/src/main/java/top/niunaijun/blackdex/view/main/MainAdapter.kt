@@ -1,10 +1,10 @@
-package top.niunaijun.blackdex.view.main
+package com.yinsheng.blackdex.view.main
 
 import android.view.ViewGroup
-import top.niunaijun.blackdex.data.entity.AppInfo
-import top.niunaijun.blackdex.databinding.ItemPackageBinding
-import top.niunaijun.blackdex.util.newBindingViewHolder
-import top.niunaijun.blackdex.view.base.BaseAdapter
+import com.yinsheng.blackdex.data.entity.AppInfo
+import com.yinsheng.blackdex.databinding.ItemPackageBinding
+import com.yinsheng.blackdex.util.newBindingViewHolder
+import com.yinsheng.blackdex.view.base.BaseAdapter
 
 /**
  *

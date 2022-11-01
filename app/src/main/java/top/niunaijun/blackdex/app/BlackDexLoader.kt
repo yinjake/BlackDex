@@ -1,11 +1,11 @@
-package top.niunaijun.blackdex.app
+package com.yinsheng.blackdex.app
 
 import android.content.Context
 import top.niunaijun.blackbox.BlackDexCore
 import top.niunaijun.blackbox.app.configuration.ClientConfiguration
 import top.niunaijun.blackbox.utils.FileUtils
 import top.niunaijun.blackbox.utils.compat.BuildCompat
-import top.niunaijun.blackdex.biz.cache.AppSharedPreferenceDelegate
+import com.yinsheng.blackdex.biz.cache.AppSharedPreferenceDelegate
 import java.io.File
 
 /**

@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.util
+package com.yinsheng.blackdex.util
 
 import android.app.Activity
 import android.app.Dialog

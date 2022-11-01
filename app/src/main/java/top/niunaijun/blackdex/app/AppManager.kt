@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.app
+package com.yinsheng.blackdex.app
 
 import android.content.Context
 

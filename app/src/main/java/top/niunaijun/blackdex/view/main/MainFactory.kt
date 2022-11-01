@@ -1,8 +1,8 @@
-package top.niunaijun.blackdex.view.main
+package com.yinsheng.blackdex.view.main
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
-import top.niunaijun.blackdex.data.DexDumpRepository
+import com.yinsheng.blackdex.data.DexDumpRepository
 
 /**
  *

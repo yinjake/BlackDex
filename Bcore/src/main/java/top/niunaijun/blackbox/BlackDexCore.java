@@ -5,6 +5,7 @@ import android.content.Context;
 import android.content.pm.PackageInfo;
 import android.net.Uri;
 import android.os.Process;
+import android.util.Log;
 
 import java.io.File;
 import java.util.List;
@@ -48,8 +49,11 @@ public class BlackDexCore {
     }
 
     public InstallResult dumpDex(String packageName) {
+        // 将软件安装至BlackBox中
         InstallResult installResult = BlackBoxCore.get().installPackage(packageName);
+        Log.e(TAG, "  成功没  "+packageName + "  "+installResult);
         if (installResult.success) {
+            // 安装成功则启动，否则卸载并且返回失败。
             boolean b = BlackBoxCore.get().launchApk(packageName);
             if (!b) {
                 BlackBoxCore.get().uninstallPackage(installResult.packageName);

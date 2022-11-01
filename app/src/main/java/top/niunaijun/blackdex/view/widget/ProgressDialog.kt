@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.view.widget
+package com.yinsheng.blackdex.view.widget
 
 import android.app.Dialog
 import android.os.Bundle
@@ -7,9 +7,9 @@ import android.view.KeyEvent
 import android.view.View
 import androidx.appcompat.app.AlertDialog
 import androidx.fragment.app.DialogFragment
-import top.niunaijun.blackdex.R
-import top.niunaijun.blackdex.databinding.DialogProgressBinding
-import top.niunaijun.blackdex.util.inflate
+import com.yinsheng.blackdex.R
+import com.yinsheng.blackdex.databinding.DialogProgressBinding
+import com.yinsheng.blackdex.util.inflate
 
 /**
  *

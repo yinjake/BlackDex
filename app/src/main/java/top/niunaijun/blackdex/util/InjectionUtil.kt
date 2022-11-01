@@ -1,7 +1,7 @@
-package top.niunaijun.blackdex.util
+package com.yinsheng.blackdex.util
 
-import top.niunaijun.blackdex.data.DexDumpRepository
-import top.niunaijun.blackdex.view.main.MainFactory
+import com.yinsheng.blackdex.data.DexDumpRepository
+import com.yinsheng.blackdex.view.main.MainFactory
 
 
 /**

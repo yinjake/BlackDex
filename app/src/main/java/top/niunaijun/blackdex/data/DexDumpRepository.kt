@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.data
+package com.yinsheng.blackdex.data
 
 import android.content.pm.ApplicationInfo
 import android.net.Uri
@@ -12,11 +12,11 @@ import top.niunaijun.blackbox.BlackBoxCore.getPackageManager
 import top.niunaijun.blackbox.BlackDexCore
 import top.niunaijun.blackbox.entity.pm.InstallResult
 import top.niunaijun.blackbox.utils.AbiUtils
-import top.niunaijun.blackdex.R
-import top.niunaijun.blackdex.app.App
-import top.niunaijun.blackdex.app.AppManager
-import top.niunaijun.blackdex.data.entity.AppInfo
-import top.niunaijun.blackdex.data.entity.DumpInfo
+import com.yinsheng.blackdex.R
+import com.yinsheng.blackdex.app.App
+import com.yinsheng.blackdex.app.AppManager
+import com.yinsheng.blackdex.data.entity.AppInfo
+import com.yinsheng.blackdex.data.entity.DumpInfo
 import java.io.File
 
 /**

@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex
+package com.yinsheng.blackdex
 
 import org.junit.Test
 

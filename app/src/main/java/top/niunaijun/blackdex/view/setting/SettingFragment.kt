@@ -1,4 +1,4 @@
-package top.niunaijun.blackdex.view.setting
+package com.yinsheng.blackdex.view.setting
 
 import android.os.Bundle
 import android.os.Environment
@@ -7,10 +7,10 @@ import androidx.preference.PreferenceFragmentCompat
 import androidx.preference.SwitchPreferenceCompat
 import com.afollestad.materialdialogs.MaterialDialog
 import com.afollestad.materialdialogs.files.folderChooser
-import top.niunaijun.blackdex.app.App
-import top.niunaijun.blackdex.R
-import top.niunaijun.blackdex.app.AppManager
-import top.niunaijun.blackdex.app.BlackDexLoader
+import com.yinsheng.blackdex.app.App
+import com.yinsheng.blackdex.R
+import com.yinsheng.blackdex.app.AppManager
+import com.yinsheng.blackdex.app.BlackDexLoader
 import java.io.File
 
 
